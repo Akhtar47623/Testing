@@ -35,7 +35,7 @@ const Home = () => {
                         <Carousel.Caption>
                             <h3>Third slide label</h3>
                             <p>
-                                asdfkljas
+                                Gitlksadjflskdjfalksdjf
                                 Praesent commodo cursus magna, vel scelerisque nisl consectetur.
                             </p>
                         </Carousel.Caption>
