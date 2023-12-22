@@ -1,0 +1,7 @@
+modified:   app/Http/Controllers/LandlordAuctionController.php
+        modified:   resources/views/landlord_auction/add.blade.php
+        modified:   resources/views/landlord_auction/edit.blade.php
+        modified:   resources/views/landlord_auction/view.blade.php
+        modified:   resources/views/layouts/partials/dashboard_user_section.blade.php
+        modified:   resources/views/layouts/partials/header.blade.php
+        modified:   resources/views/settings.blade.php
