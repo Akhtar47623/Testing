@@ -37,8 +37,11 @@ const Home = () => {
                             <p>
                                 Praesent commodo cursus magna, vel scelerisque nisl consectetur.
                             </p>
+
                         </Carousel.Caption>
                     </Carousel.Item>
+
+
                 </Carousel>
             </section>
             <section className="about-us-sec">
